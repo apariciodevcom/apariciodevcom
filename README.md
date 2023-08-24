@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @apariciodevcom
-- 👀 I’m interested in Data Science/Data Analysis
-- 🌱 I’m currently learning Scala and R
-- 💞️ I’m looking to collaborate on Data Science projects
+- 👀 I’m interested in Data Science/ IA / ML
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Data Science / IA projects
 - 📫 How to reach me luis@apariciodev.com
 
 <!---
