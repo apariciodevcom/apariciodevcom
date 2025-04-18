@@ -1,28 +1,21 @@
-🌍 En español
+👨‍💻 Luis Figueroa
 
-Soy un ingeniero especializado en ciencia de datos, automatización y desarrollo de soluciones basadas en datos. Trabajo con Python, herramientas en la nube (AWS), visualización de datos (dashboards) y sistemas de machine learning.
+🌐 Über mich (Deutsch)
 
-Actualmente estoy interesado en colaborar en proyectos freelance, de código abierto, consultorías o posiciones laborales que me permitan seguir creciendo profesionalmente.
+Hallo! Ich bin ein Data Engineer und Analyst mit Spezialisierung auf Python, Datenanalyse, Machine Learning, Dashboards und Cloud-Technologien. Ich lebe in der Schweiz und bin offen für freiberufliche Projekte, Beratungen und Kollaborationen.
 
-⚡  Especialidades:
+Ich arbeite gerne mit Daten – vom Sammeln und Transformieren bis zur Visualisierung und Modellierung. Wenn dein Team technische Verstärkung braucht, bin ich bereit!
 
-Análisis de datos y visualización
+🌐 About Me (English)
 
-Machine Learning y modelos predictivos
+Hi! I'm a Data Engineer and Analyst with expertise in Python, data analysis, machine learning, dashboards, and cloud tools. Currently based in Switzerland, I'm open to freelance projects, consulting, and collaborations.
 
-Automatización de procesos con Python
+I enjoy working with data – from collection and transformation to visualization and modeling. If your team needs technical support, I’m ready!
 
-AWS (EC2, S3, SES, IAM)
+🌐 Sobre mí (Español)
 
-Sistemas de trading automatizado
+¡Hola! Soy un Ingeniero y Analista de Datos con experiencia en Python, análisis de datos, machine learning, dashboards y herramientas en la nube. Vivo en Suiza y estoy abierto a proyectos freelance, consultorías y colaboraciones.
 
-Dashboards interactivos (Power BI, Streamlit, Plotly)
+Disfruto trabajar con datos: desde su recolección y transformación hasta su visualización y modelado. Si tu equipo necesita soporte técnico, ¡cuenta conmigo!
 
-🚀  Buscando oportunidades en: freelance, proyectos open source, consultorías y empleos en ciencia de datos, ingeniería de datos o desarrollo Python.
-
-Puedes contactarme a través de luis@apariciodev.com o explorar mi sitio: https://apariciodev.com
-
-<!---
-apariciodevcom/apariciodevcom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Contacto: luis@apariciodev.com
